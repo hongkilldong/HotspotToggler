@@ -1,0 +1,20 @@
+.gradle/
+.kotlin/
+build/
+app/build/
+local.properties
+.idea/
+*.iml
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+
+# local build/release artifacts and temporary files
+dist/
+docs/images/
+settings_apk/
+settings.apk
+settings.zip
+screen1.png
+*.log
